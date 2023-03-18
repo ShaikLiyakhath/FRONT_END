@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+    align-content: center;
+
+}
+.Header{
+    display: flex;
+    border: solid black;
+
+}
+.nav{
+    display: flex;
+    border: solid black;
+
+}
+.con1{
+    display: flex;
+    border: solid black;
+
+}
+.con2{
+    display: flex;
+    border: solid black;
+
+}
+.con3{
+    display: flex;
+    border: solid black;
+
+}
+.foot{
+    display: flex;
+    border: solid black;
+
+}
